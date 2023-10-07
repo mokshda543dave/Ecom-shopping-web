@@ -1,1 +1,1 @@
-# Ecom-shppoing-web
+# Ecom-shopping-web
